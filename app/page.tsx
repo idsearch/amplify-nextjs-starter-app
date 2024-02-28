@@ -50,9 +50,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Quickstart <span>-&gt;</span>
+            SWQuickstart <span>-&gt;</span>
           </h2>
-          <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
+          <p>SWFollow a tutorial to build a fullstack app with Amplify Gen 2.</p>
         </a>
 
         <a
